@@ -43,51 +43,64 @@ German 🇩🇪 (B1), Hindi 🇮🇳 & Urdu 🇵🇰 (verbal-fluent)
 ### 🧑‍💻 Experience
 
 _Jul '21 - Present_ — **Lead Software Engineer (Data and Machine Learning)** —
-Cobrainer, Munich \
-  Architecting the heart-and-soul of Cobrainer's brain
+[Cobrainer](https://www.cobrainer.com), Munich \
+  Architecting the heart-and-soul of Cobrainer's brain. Leading the team responsible for bulding and maintaining services for text-analysis (NLP), knowledge graph, recommendation, etc. \
+  `Data Science` `Machine Learning` `Recommendation` `Software Architecture` `NLP` `Knowledge Graph` `Python` `TypeScript` `Node` `AWS`
+
+\
+_Jan '20 - June '21_ — **Senior Software Engineer (Recommendation)** —
+[Joyn](https://www.joyn.de), Munich \
+  Joyn is the "Netflix" for the German audience. Developed and maintained recommendation engine to give every user a personalized experience.\
+  `Data Science` `Machine Learning` `Recommendation` `Software Architecture` `Python` `TypeScript` `Node` `AWS`
   
-_Jan '20 - June '21_ — **Senior Software Engineer (Recommendation)**  
-Joyn, Munich \
-  Developed and maintained recommendation engine to give every user a personalized experience
-  
+\
 _Jan '16 - Dec '19_ — **Research Scientist** —
-Fortiss GmbH, Munich \
-_Jan '18 - Dec '19_ — **Senior Software Engineer (Neuro-robotics)r** — 
-Human Brain Project \
-_Aug '16 - Dec '17_ — **Software Engineer (Neuro-robotics)** —
-Human Brain Project \
-  Coordinated and developed Neuro-robotics platform
+[fortiss GmbH](https://www.fortiss.org/), Munich, in association as-with: \
+_Aug '18 - Dec '19_ — **Senior**[1] **Software Engineer (Neuro-robotics)** — 
+[Human Brain Project](https://www.humanbrainproject.eu/en/) \
+  Coordinated and developed Neuro-robotics platform. [[source code]](https://bitbucket.org/hbpneurorobotics/) \
+ `Machine Learning` `Brain Simulation` `Software Architecture` `Robot Simulation` `ROS` `Python` `C++` `Angular` `Super-computer (ETH)`
 
 
-_Oct '14 - Mar '15_ — **Research Assistant (Data Science)** —
+\
+_Jan '15 - Dec '15_ — **Research Assistant (Software Development)**[2] —
+[fortiss GmbH](https://www.fortiss.org/), Munich \
+_Oct '14 - Mar '15_ — **Research Assistant (Data Science)**[2] —
 Munich Innovation Group, Munich \
-  MigVis project
+_Nov '13 - Dec '14_ — **Research Assistant (Software Development)**[2] —
+[Technical University Munich](https://campar.in.tum.de/WebHome) \
+  Ported libc memory and thread implementation for FreeRTOS. [[paper]](https://www.fortiss.org/en/results/scientific-publications/details/towards-trusted-apps-platforms-for-open-cps) \
+  Developed data mining and visualization tool for patent data. [[source code]](https://github.com/hmsgit/minestream) \
+  CAMPVis — a medical image visualization/manipulation software platform. [[source code]](https://gitlab.lrz.de/CAMP/campvis-public) \
+  `Data Science` `Data Visualization` `C++` `Qt` `Python`
 
-_Jan '15 - Dec '15_ — **Research Assistant (Software Development)** —
-Fortiss GmbH, Munich \
-  Ported FreeRTOS memory and thread implementation
-
-_Nov '13 - Dec '14_ — **Research Assistant (Software Development)** —
-Technical University Munich \
-  CampAR project
-
+\
 _Apr '12 - Sep '13_ — **Software Engineer** —
-Kona Software Lab, Dhaka \
-  Developed Trusted Service Manager and Public Key Infrastucture for Kona I, Seoul
+[Kona Software Lab](https://konai.com/?lang=en), Dhaka \
+  Developed [Trusted Service Manager and Public Key Infrastructure](https://konai.com/business/cards/communication) for [Kona I](https://konai.com/?lang=en), Seoul. It paved the foundation for KonaI launching its own [Payment platform](https://konai.com/business/fintech/kona_payment).\
+  `Software Architecture` `Cryptography` `Security` `PKI` `TSM` `C/C++` `Java EE`
 
 ------
 ### 🎓 Education
 
 **Master of Science in Computer Science** — 
 _Technical University Munich_ —
-**with Distinction**
+**with Distinction** \
+Thesis: Ensemble learning in data streams.
 
 **Bachelor of Science in Computer Science and Engineering** —
 _Bangladesh University of Engineering and Technology_ —
-with Merit
+with Merit \
+Thesis: Group based path queries in road networks. [[paper]](https://link.springer.com/chapter/10.1007/978-3-642-40235-7_21)
 
 ------
 
 ### 🤝🏼 Contact
 
-Best way to reach me is through 📧[email](firstname dot lastname at gmail dot com) or 🔗[LinkedIn](https://www.linkedin.com/in/hossainmahmud/)
+Best way to reach me is through <a href="mailto:firstname dot lastname at gmail dot com">
+    <img width="15px" src="./images/icons/email.png" alt=""/> Email</a> or <a href="https://www.linkedin.com/in/hossainmahmud">
+    <img width="15px" src="./images/icons/extlink.png" alt=""/> LinkedIn</a>
+
+
+[1] As the role progressed within the team and project \
+[2] Part-time position
